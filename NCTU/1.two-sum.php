@@ -1,4 +1,11 @@
-<?php
+
+/*
+ * @lc app=leetcode id=1 lang=php
+ *
+ * [1] Two Sum
+ */
+
+// @lc code=start
 class Solution {
 
     /**
@@ -16,4 +23,6 @@ class Solution {
             }
         }
     }
-}
+} 
+// @lc code=end
+

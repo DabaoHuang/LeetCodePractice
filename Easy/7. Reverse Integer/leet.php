@@ -18,6 +18,6 @@ class Solution {
         }
         $answer = ($minus) ? (int)$answer*-1 : (int)$answer;
         
-        echo $answer;
+        return $answer;
     }
 }

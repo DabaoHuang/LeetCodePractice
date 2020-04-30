@@ -1,3 +1,10 @@
+#
+# @lc app=leetcode id=7 lang=python
+#
+# [7] Reverse Integer
+#
+
+# @lc code=start
 import math
 class Solution(object):
     def reverse(self, x):
@@ -15,3 +22,6 @@ class Solution(object):
             return 0
         
         return ret
+        
+# @lc code=end
+
